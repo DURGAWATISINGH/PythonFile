@@ -1,0 +1,24 @@
+#Largest of two numbers a and b
+'''
+a = 20
+b = 10
+if a > b:
+   print(a)
+else:
+   print(b)
+'''
+
+#Update values of a and b
+a = 5
+b = 10
+if a > b:
+   print(a)
+else:
+   print(b)
+
+num1 = 15
+num2 = 25
+if num1 > num2:
+   print(num1)
+else:
+   print(num2)
